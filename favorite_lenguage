@@ -1,0 +1,4 @@
+favorite_lenguage = "Python "
+favorite_lenguage.rstrip()
+favorite_lenguage = favorite_lenguage.rstrip()
+favorite_lenguage
