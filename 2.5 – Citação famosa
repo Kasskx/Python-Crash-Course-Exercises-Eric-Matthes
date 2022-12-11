@@ -1,0 +1,3 @@
+citação = " O falso é às vezes a verdade de cabeça para baixo."
+autor = "Sigmund Freud certa vez disse:"
+print(autor + citação)
