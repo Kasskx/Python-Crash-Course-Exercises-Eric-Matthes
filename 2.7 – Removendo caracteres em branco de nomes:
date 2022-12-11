@@ -1,0 +1,11 @@
+name = "   Lewis Hamilton   "
+print("\n\tname")
+
+name_1 = "   Lewis Hamilton   "
+print(name_1.lstrip)
+
+name_2 = "  Lewis Hamilton  "
+print(name_2.rstrip)
+
+name_3 = "  Lewis Hamilton   "
+print(name_3.strip)
