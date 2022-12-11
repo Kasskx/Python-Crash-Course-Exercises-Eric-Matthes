@@ -1,0 +1,5 @@
+message = ", este é o meu número favorito!" 
+print(str(13) + message) 
+#---------
+message_1 = ", this is my favorite number!"
+print(str(13) + message_1)
