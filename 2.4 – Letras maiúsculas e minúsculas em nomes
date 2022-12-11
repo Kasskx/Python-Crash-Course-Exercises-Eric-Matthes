@@ -1,0 +1,4 @@
+firts_name = "guilherme araújo "
+last_name = "anjos"
+
+print(firts_name.title() + "dos " + last_name.title())
