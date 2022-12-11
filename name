@@ -1,0 +1,3 @@
+name = "ada lovelace"
+print(name.title())
+# Name está correlacionado com a string "ada lovelace", o método (title) escreverá "Ada Lovelace".
