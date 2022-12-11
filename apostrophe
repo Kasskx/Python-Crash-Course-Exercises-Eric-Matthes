@@ -1,0 +1,3 @@
+message = " One of Python's strenghs is its your diverse community."
+print(message)
+message = 'One of Python's strenghs is its your diverse community.'
