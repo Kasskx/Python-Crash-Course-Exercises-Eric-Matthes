@@ -1,0 +1,11 @@
+soma = 4 + 4
+print(soma)
+#-----------
+subtração = 8 - 0 
+print(subtração)
+#-----------
+multiplicação = 4 * 2 
+print(multiplicação)
+#-----------
+divisão = 32.0 / 4.0
+print(divisão)
