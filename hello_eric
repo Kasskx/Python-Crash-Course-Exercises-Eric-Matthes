@@ -1,0 +1,3 @@
+name = "Eric, "
+message = "voce gostaria de aprender um pouco de python hoje?"
+print("Alo " + name + message)
