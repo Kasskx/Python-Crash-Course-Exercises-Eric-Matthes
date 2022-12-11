@@ -1,0 +1,4 @@
+citação = " O falso é às vezes a verdade de cabeça para baixo."
+complemento = " certa vez disse:"
+famous_person = "Sigmund Freud"
+print(famous_person + complemento + citação)
