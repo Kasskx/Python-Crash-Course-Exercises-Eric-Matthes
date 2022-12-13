@@ -1,0 +1,7 @@
+message = "Happy " + 23 + "rd birthday!"
+print(message)
+# The code above is wrong on purpose, I will demonstrate both ways, above wrong and below correct.
+
+message = "Happy " + str(28) + "rd birthday!"
+print(message)
+# Tarefa para apenas adicionar um comentário
