@@ -1,0 +1,12 @@
+friends = ["Kaio","Levi","Pablo","Gui","Gabriel"]
+hey = "Olá, este é o meu amigo "
+
+print(hey + friends[0])
+#----------------------
+print(hey + friends[1])
+#----------------------
+print(hey + friends[2])
+#----------------------
+print(hey + friends[3])
+#----------------------
+print(hey + friends[4])
