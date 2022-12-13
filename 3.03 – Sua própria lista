@@ -1,0 +1,16 @@
+motorcycles = ["Harley Davidson", "Honda", "Triumph"]
+cars = ["Porsche", "Mercedes Benz", "Koenigsegg"]
+# I love german cars haha
+message = "I would love to have one "
+
+print(message + motorcycles[0])
+#-
+print(message + motorcycles[1])
+#-
+print(message + motorcycles[2])
+#-
+print(message + cars[0])
+#-
+print(message + cars[1])
+#-
+print(message + cars[2])
