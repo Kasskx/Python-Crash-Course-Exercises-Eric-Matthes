@@ -1,0 +1,21 @@
+list = ['Albert Einstein','Alan Turing','Stephen Hawking','Satoshi Nakamoto']
+hello = "Hello "
+invitation_message = ", you've been invited to dinner at my house!"
+
+print(hello + list[0] + invitation_message)
+
+print(hello + list[1] + invitation_message)
+
+print(hello + list[2] + invitation_message)
+
+print(hello + list[3] + invitation_message)
+
+print("Unfortunately Satoshi Nakamoto will not be able to attend the dinner, he wants to remain anonymous.")
+
+del list[3]
+print(list)
+
+list.append("Elon Musk")
+print(list)
+#I'll not repeat the invitation messages for others, only for the new guest.
+print(hello + list[3] + invitation_message)
