@@ -1,0 +1,11 @@
+list = ['Albert Einstein','Alan Turing','Stephen Hawking','Satoshi Nakamoto']
+hello = "Hello "
+invitation_message = ",you've been invited to dinner at my house!"
+
+print(hello + list[0] + invitation_message)
+
+print(hello + list[1] + invitation_message)
+
+print(hello + list[2] + invitation_message)
+
+print(hello + list[3] + invitation_message)
